@@ -37,11 +37,11 @@
 ## 📸 Demo
 
 <p align="left">
-  <img src="demo/2.jpg" width="260">
-  <img src="demo/3.jpg" width="260">
-  <img src="demo/4.jpg" width="260">
+  <img src="demo/2.jpg" width="400">
+  <img src="demo/3.jpg" width="400">
+  <img src="demo/4.jpg" width="400">
 
-  <img src="demo/1.jpg" width="260">
+  <img src="demo/1.jpg" width="400">
   
   
   <i>📂 Link video demo chi tiết và apk: https://drive.google.com/drive/folders/10dGabLDZoxJTRm8hvexn-OLzQkhGuBQV?usp=drive_link </i>
